@@ -7,7 +7,7 @@ This file contains text you can copy and paste for the examples in Cloud Academy
 ### Setting Up Datastores and Datasets
 [Automobiles dataset overview](http://mlr.cs.umass.edu/ml/datasets/Automobile)
 
-[Automobiles dataset](http://mlr.cs.umass.edu/ml/machine-learning-databases/autos/imports-85.data)
+Data source: http://mlr.cs.umass.edu/ml/machine-learning-databases/autos/imports-85.data
 
 ### Summary
 [Azure Machine Learning documentation](https://docs.microsoft.com/en-us/azure/machine-learning/)  
